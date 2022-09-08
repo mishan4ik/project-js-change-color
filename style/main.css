@@ -1,0 +1,18 @@
+.text-block{
+	display: flex;
+	justify-content: center;
+	margin-top: 350px;
+}
+.btn-submit{
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+#btn{
+	max-width: 200px;
+}
+#bodyColor{
+	color: #0e0b0b;
+	font-weight: bold;
+	font-size: 50px;
+}
